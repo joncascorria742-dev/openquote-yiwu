@@ -1,0 +1,252 @@
+.sample-page {
+  background: #efe8dd;
+}
+
+.report-header {
+  position: static;
+}
+
+.report-document {
+  overflow: hidden;
+  width: min(980px, calc(100% - 32px));
+  margin: 40px auto;
+  padding: 52px;
+  border-radius: 18px;
+  background: var(--white);
+  box-shadow: var(--shadow);
+}
+
+.document-title {
+  display: grid;
+  gap: 36px;
+  padding-bottom: 38px;
+  border-bottom: 2px solid var(--ink);
+  grid-template-columns: 1.25fr 0.75fr;
+}
+
+.document-title > div,
+.document-meta,
+.data-grid div,
+.supplier-data div,
+.deliverable-list div,
+.next-step-grid div {
+  min-width: 0;
+}
+
+.document-title h1 {
+  margin-bottom: 16px;
+  font-size: clamp(3rem, 6vw, 5.8rem);
+  overflow-wrap: anywhere;
+}
+
+.document-title > div > p:last-child {
+  color: var(--ink-soft);
+}
+
+.document-meta {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+  padding: 18px;
+  border-radius: 12px;
+  background: var(--paper);
+}
+
+.document-meta span,
+.document-meta b,
+.data-grid span,
+.data-grid b,
+.supplier-data span,
+.supplier-data b {
+  display: block;
+}
+
+.document-meta span,
+.data-grid span,
+.supplier-data span {
+  color: var(--ink-soft);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+}
+
+.document-section {
+  padding-block: 38px;
+  border-bottom: 1px solid var(--line);
+}
+
+.document-section-title {
+  max-width: 600px;
+  margin-bottom: 22px;
+}
+
+.document-section-title h2 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.data-grid,
+.supplier-data,
+.summary-grid,
+.next-step-grid,
+.deliverable-list {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.data-grid div,
+.supplier-data div,
+.deliverable-list div {
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.deliverable-list strong,
+.deliverable-list span {
+  display: block;
+}
+
+.deliverable-list strong {
+  margin-bottom: 7px;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.deliverable-list span {
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+}
+
+.summary-grid {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.summary-grid div {
+  display: grid;
+  padding: 18px;
+  border-radius: 8px;
+  background: var(--ink);
+  color: var(--white);
+}
+
+.summary-grid strong {
+  color: var(--accent-soft);
+  font-family: var(--serif);
+  font-size: 2.7rem;
+}
+
+.summary-grid span {
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.73rem;
+}
+
+.exclusions {
+  margin-top: 22px;
+  padding: 16px 18px;
+  border-left: 4px solid var(--accent);
+  background: #fbf5ec;
+}
+
+.exclusions h3,
+.exclusions ul {
+  margin-block: 0;
+}
+
+.exclusions ul {
+  margin-top: 7px;
+  padding-left: 20px;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+}
+
+.supplier-detail {
+  margin-top: 12px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.supplier-title {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.supplier-title span {
+  color: var(--accent);
+  font-size: 0.64rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+
+.supplier-title h3 {
+  margin: 2px 0;
+}
+
+.supplier-title p,
+.supplier-note {
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+}
+
+.supplier-title > b {
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.55rem;
+}
+
+.supplier-data {
+  margin-top: 14px;
+}
+
+.supplier-note {
+  margin: 13px 0 0;
+}
+
+.next-step-grid {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.next-step-grid div {
+  padding: 16px;
+  border-radius: 8px;
+  background: var(--paper);
+}
+
+.next-step-grid p {
+  margin-bottom: 0;
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+}
+
+.document-disclaimer {
+  padding-top: 34px;
+}
+
+.report-cta {
+  margin-top: 22px;
+}
+
+.document-disclaimer p {
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+}
+
+@media (max-width: 700px) {
+  .report-document {
+    padding: 22px;
+  }
+
+  .document-title h1 {
+    font-size: clamp(2.35rem, 13vw, 3.45rem);
+  }
+
+  .document-title,
+  .data-grid,
+  .supplier-data,
+  .next-step-grid,
+  .deliverable-list {
+    grid-template-columns: 1fr;
+  }
+}

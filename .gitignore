@@ -1,0 +1,5 @@
+artifacts/
+docs/
+.netlify/
+.env
+*.log
