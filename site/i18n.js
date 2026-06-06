@@ -9,33 +9,34 @@
     en: {
       lang: "en",
       dir: "ltr",
-      title: "OpenQuote Yiwu | China Product Scouting from US$59",
+      title: "OpenQuote Yiwu | China Product Scouting from US$29",
       metaDescription:
-        "Start sourcing products in China from inside the world's largest small-commodity wholesale market. Fixed service fees from US$59. Zero commission. Zero product markup.",
-      ogTitle: "OpenQuote Yiwu | China Product Scouting from US$59",
+        "Start sourcing products in China from inside the world's largest small-commodity wholesale market. Fixed service fees from US$29. Zero commission. Zero product markup.",
+      ogTitle: "OpenQuote Yiwu | China Product Scouting from US$29",
       ogDescription:
         "Local product and supplier research from inside the world's largest small-commodity wholesale market. Zero commission. Zero product markup.",
-      nav: ["Why us", "Services", "How it works", "Sample pack", "Start a US$59 scout"],
+      nav: ["Why us", "Services", "How it works", "Sample pack", "Start from US$29"],
       hero: {
         eyebrow: "Inside the world's largest small-commodity wholesale market",
         title: "China sourcing,<br /><span>without the flight.</span>",
-        text: "Tell us what product you need. We search in Yiwu, collect original supplier quotes and contact details, and send the results before you spend money on a China trip or long-term agent.",
+        text: "Send one product photo. We'll check real Yiwu supplier options before you travel or place an order.",
         benefits: ["Original supplier quotes", "Supplier contact details", "MOQ, lead time and local photos"],
-        cta: "Start a US$59 product scout",
+        cta: "Start a US$29 price re-check",
         sample: "View sample sourcing pack <span>↗</span>",
         note: "Fixed service fee. Zero commission. Zero product markup."
       },
       starter: {
-        heading: ["QUICK PRODUCT SCOUT", "ENTRY SERVICE"],
+        heading: ["CHINA PRICE RE-CHECK", "ENTRY SERVICE"],
+        price: "29",
         from: "FIXED-FEE ENTRY SERVICE",
         items: [
-          "One specific product request",
-          "Up to 3 responsive supplier options",
-          "Original quotations shared unchanged",
-          "MOQ and lead-time notes",
-          "Supplier contact details"
+          "For buyers with a quote, product photo or link",
+          "We requote and compare reference prices",
+          "Useful for checking suppliers, agents or trading quotes",
+          "Price range and risk notes",
+          "Not a full supplier development service"
         ],
-        foot: ["Typical delivery", "2–3 business days"]
+        foot: ["Typical delivery", "1–2 business days"]
       },
       savings: {
         eyebrow: "Clear fixed fees. No commission. No product markup.",
@@ -69,6 +70,23 @@
           "Yiwu, China, is home to the world's largest small-commodity wholesale market. We help you explore it remotely before you spend time and money on an initial trip to China.",
         stats: ["square metres of market area", "market booths", "product varieties", "starting research fee"]
       },
+      fieldShots: {
+        eyebrow: "Market floor phone shots",
+        title: "See product options like you asked someone to walk the market for you.",
+        text:
+          "The best proof is simple: vertical phone photos from the market, different products, clear notes and supplier details collected for your request.",
+        cards: [
+          ["Yiwu market", "09:42", "Market aisles", "Walk the market remotely"],
+          ["Supplier shelf", "10:18", "Toys & ride-ons", "Children's vehicles, toy shelves"],
+          ["Product check", "11:05", "Plush toys", "Character toys, gift items"],
+          ["Market entrance", "12:20", "Trade market", "Yiwu International Trade Market"],
+          ["Quote notes", "13:27", "Home decor", "Ceramics, bowls, display shelves"],
+          ["Accessory booth", "16:08", "Jewelry & accessories", "Earrings, necklaces, fashion items"],
+          ["Product ideas", "16:32", "Kitchen storage", "Racks, holders, home-use ideas"]
+        ],
+        note:
+          "During a paid scouting task, we can collect phone photos from booths, shelves, packaging samples or supplier displays when they are relevant to your request."
+      },
       servicesHeading: {
         eyebrow: "What we can do",
         title: "Choose a clear fixed-fee starting point.",
@@ -77,23 +95,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "China Price Re-Check",
+          text:
+            "For buyers who already have a product photo, link, quote, supplier, sourcing agent or trading company offer. We requote and compare reference prices.",
+          cta: "Re-check my price",
+          service: "China Price Re-Check - US$29, requote and reference price comparison without full supplier development"
+        },
+        {
+          price: "02 / US$59",
           title: "Quick Product Scout",
           text:
-            "Search one specific product. Receive up to 3 responsive supplier options, original quotes, contact details, MOQ, lead-time and packaging notes.",
+            "For buyers without a clear supplier yet. We search 3 supplier options and organize prices, MOQ, packaging notes and lead-time details.",
           cta: "Start a product scout",
-          service: "Quick Product Scout - US$59"
+          service: "Quick Product Scout - US$59, 3 supplier options with prices, MOQ, packaging notes and lead-time details"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "5-Product Scout",
           text:
-            "Search up to 5 specific products in one category. For each product, receive 2 low-price supplier options, original quotes, contact details, MOQ, lead-time and packaging notes.",
+            "Search up to 5 specific products in one category. For each product, receive 2 supplier options, original quotes, contact details, MOQ, lead-time and packaging notes.",
           cta: "Start a 5-product scout",
-          service: "5-Product Scout - US$129, up to 5 products with 2 low-price supplier options per product"
+          service: "5-Product Scout - US$99, up to 5 products with 2 supplier options per product"
         },
         {
-          price: "03 / FROM US$199",
+          price: "04 / FROM US$199",
           title: "New Product Category Scout",
           text:
             "Explore one product category and receive 10–15 selected new product opportunities with photos, price ranges, packaging ideas and source notes.",
@@ -101,7 +127,7 @@
           service: "New Product Category Scout - from US$199, 10-15 selected new product opportunities in one category"
         },
         {
-          price: "04 / FROM US$79",
+          price: "05 / FROM US$79",
           title: "Remote local support",
           text:
             "Request a focused local task such as additional photos, basic follow-up or sample coordination in Yiwu.",
@@ -110,7 +136,7 @@
         }
       ],
       serviceNote:
-        "Listed prices cover focused entry scopes. Broader requests receive a fixed quote before work begins. The US$129 5-Product Scout covers up to 5 products in one category, with 2 low-price supplier options per product. The US$199 New Product Category Scout starts with 10–15 selected new product opportunities in one category. Third-party shipping, export, warehousing and testing costs are quoted separately when relevant. We do not claim regulated inspection work.",
+        "Listed prices cover focused entry scopes. The US$29 China Price Re-Check is for buyers who already have a product photo, link, quote, supplier, sourcing agent or trading company offer. It includes requoting and reference price comparison, but not full supplier development. The US$59 Quick Product Scout is for buyers without a clear supplier yet and includes 3 supplier options. Broader requests receive a fixed quote before work begins. The US$99 5-Product Scout covers up to 5 products in one category, with 2 supplier options per product. The US$199 New Product Category Scout starts with 10–15 selected new product opportunities in one category. Third-party shipping, export, warehousing and testing costs are quoted separately when relevant. We do not claim regulated inspection work.",
       process: {
         eyebrow: "How it works",
         title: "Four clear steps. You stay in control.",
@@ -147,7 +173,7 @@
           ["Do you add a markup to product prices?", "No. The original supplier quotations collected for your task are shared unchanged. Third-party costs are shown separately when relevant."],
           ["Will I receive supplier contact details?", "Yes. The paid sourcing pack includes the supplier contact details collected for your task, so you can decide how to proceed."],
           ["Can you check packaging, logo or customization options?", "Yes. When relevant, we can include basic packaging, logo, color or customization notes collected from suppliers. More detailed follow-up is quoted separately."],
-          ["What is the difference between the US$59 and US$129 scouts?", "The US$59 Quick Product Scout covers one specific product with up to 3 supplier options. The US$129 5-Product Scout covers up to five specific products in one category, with 2 low-price supplier options per product."],
+          ["What is the difference between the US$59 and US$99 scouts?", "The US$59 Quick Product Scout covers one specific product with 3 supplier options. The US$99 5-Product Scout covers up to five specific products in one category, with 2 supplier options per product."],
           ["How many products are included in the US$199 category scout?", "The US$199 New Product Category Scout starts with 10–15 selected new product opportunities in one category, with photos, price ranges and source notes."],
           ["Can you help me find factory sources?", "Yes. Send your requirements through WhatsApp and we will confirm a fixed-fee scope for suitable factory and direct-supply options."],
           ["Are the listed prices fixed?", "Yes, for the stated entry scope. If your request is broader, we confirm a clear fixed fee through WhatsApp before paid work begins."],
@@ -163,7 +189,7 @@
           "Send a product photo, a short description or your sourcing goal directly in the chat. We will review your request and confirm a clear fixed-fee scope before any paid work begins.",
         points: [
           "Quick Product Scout: US$59",
-          "5-Product Scout: US$129 · up to 5 products, 2 supplier options each",
+          "5-Product Scout: US$99 · up to 5 products, 2 supplier options each",
           "New Product Category Scout: from US$199 · 10–15 selected opportunities",
           "Remote local support: from US$79",
           "Packaging/customization notes when available",
@@ -196,33 +222,34 @@
     es: {
       lang: "es",
       dir: "ltr",
-      title: "OpenQuote Yiwu | Búsqueda de productos en China desde US$59",
+      title: "OpenQuote Yiwu | Búsqueda de productos en China desde US$29",
       metaDescription:
-        "Empiece a buscar productos en China desde el mayor mercado mayorista de pequeños productos del mundo. Tarifas fijas desde US$59. Sin comisión. Sin margen añadido.",
-      ogTitle: "OpenQuote Yiwu | Búsqueda de productos en China desde US$59",
+        "Empiece a buscar productos en China desde el mayor mercado mayorista de pequeños productos del mundo. Tarifas fijas desde US$29. Sin comisión. Sin margen añadido.",
+      ogTitle: "OpenQuote Yiwu | Búsqueda de productos en China desde US$29",
       ogDescription:
         "Investigación local de productos y proveedores desde el mayor mercado mayorista de pequeños productos del mundo. Sin comisión. Sin margen añadido.",
-      nav: ["Ventajas", "Servicios", "Proceso", "Ejemplo", "Empezar por US$59"],
+      nav: ["Ventajas", "Servicios", "Proceso", "Ejemplo", "Empezar por US$29"],
       hero: {
         eyebrow: "Dentro del mayor mercado mayorista de pequeños productos del mundo",
         title: "Sourcing en China,<br /><span>sin viajar.</span>",
-        text: "Cuéntenos qué producto necesita. Buscamos en Yiwu, recopilamos cotizaciones originales de proveedores y datos de contacto, y le enviamos los resultados antes de que gaste dinero en un viaje a China o en un agente a largo plazo.",
+        text: "Envíe una foto del producto. Revisaremos opciones reales de proveedores en Yiwu antes de que viaje o haga un pedido.",
         benefits: ["Cotizaciones originales", "Contactos de proveedores", "MOQ, plazos y fotos locales"],
-        cta: "Empezar búsqueda por US$59",
+        cta: "Empezar revisión por US$29",
         sample: "Ver ejemplo de informe <span>↗</span>",
         note: "Tarifa fija. Sin comisión. Sin margen añadido al producto."
       },
       starter: {
-        heading: ["BÚSQUEDA RÁPIDA", "SERVICIO DE ENTRADA"],
+        heading: ["REVISIÓN DE PRECIO", "SERVICIO DE ENTRADA"],
+        price: "29",
         from: "SERVICIO INICIAL DE TARIFA FIJA",
         items: [
-          "Una solicitud de producto específico",
-          "Hasta 3 proveedores que responden",
-          "Cotizaciones originales sin cambios",
-          "Notas de MOQ y plazo",
-          "Datos de contacto del proveedor"
+          "Una cotización o foto de producto",
+          "Revisión rápida de razonabilidad de mercado",
+          "1–2 opciones de referencia",
+          "Rango de precio y notas de riesgo",
+          "Contactos completos desde US$59"
         ],
-        foot: ["Entrega típica", "2–3 días hábiles"]
+        foot: ["Entrega típica", "1–2 días hábiles"]
       },
       savings: {
         eyebrow: "Tarifas fijas claras. Sin comisión. Sin margen añadido.",
@@ -256,6 +283,23 @@
           "Yiwu, China, alberga el mayor mercado mayorista de pequeños productos del mundo. Le ayudamos a explorarlo a distancia antes de gastar tiempo y dinero en un primer viaje a China.",
         stats: ["metros cuadrados de mercado", "puestos de mercado", "variedades de productos", "tarifa inicial de investigación"]
       },
+      fieldShots: {
+        eyebrow: "Fotos verticales desde el mercado",
+        title: "Vea opciones de producto como si alguien caminara el mercado por usted.",
+        text:
+          "La prueba más clara es sencilla: fotos verticales desde el mercado, productos diferentes, notas claras y datos de proveedores recopilados para su solicitud.",
+        cards: [
+          ["Mercado de Yiwu", "09:42", "Pasillos del mercado", "Recorra el mercado a distancia"],
+          ["Estante proveedor", "10:18", "Juguetes y montables", "Vehículos infantiles y estantes"],
+          ["Revisión producto", "11:05", "Peluches", "Juguetes de personaje y regalos"],
+          ["Entrada mercado", "12:20", "Mercado mayorista", "Yiwu International Trade Market"],
+          ["Notas de precio", "13:27", "Decoración hogar", "Cerámica, cuencos y exhibidores"],
+          ["Puesto accesorios", "16:08", "Joyería y accesorios", "Aretes, collares y moda"],
+          ["Ideas producto", "16:32", "Cocina y organización", "Estantes, soportes y hogar"]
+        ],
+        note:
+          "Durante una tarea pagada, podemos recopilar fotos de teléfono de puestos, estantes, muestras de empaque o exhibiciones de proveedores cuando sean relevantes para su solicitud."
+      },
       servicesHeading: {
         eyebrow: "Qué podemos hacer",
         title: "Elija un punto de inicio con tarifa fija.",
@@ -264,23 +308,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "Revisión de precio en China",
+          text:
+            "Para compradores que ya tienen foto, enlace, cotización, proveedor, agente de compra u oferta de trading. Volvemos a cotizar y comparamos precios de referencia.",
+          cta: "Revisar mi precio",
+          service: "Revisión de precio en China - US$29, recotización y comparación de precios de referencia sin desarrollo completo de proveedores"
+        },
+        {
+          price: "02 / US$59",
           title: "Búsqueda rápida de producto",
           text:
-            "Buscamos un producto específico. Reciba hasta 3 opciones de proveedores, cotizaciones originales, contactos, MOQ, plazos y notas de empaque.",
+            "Para compradores que aún no tienen un proveedor claro. Buscamos 3 opciones de proveedores y organizamos precios, MOQ, notas de empaque y plazos.",
           cta: "Empezar búsqueda",
-          service: "Búsqueda rápida de producto - US$59"
+          service: "Búsqueda rápida de producto - US$59, 3 opciones de proveedores con precios, MOQ, notas de empaque y plazos"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "Búsqueda de 5 productos",
           text:
-            "Buscamos hasta 5 productos específicos en una categoría. Para cada producto, reciba 2 proveedores de precio bajo, cotizaciones originales, contactos, MOQ, plazos y notas de empaque.",
+            "Buscamos hasta 5 productos específicos en una categoría. Para cada producto, reciba 2 opciones de proveedores, cotizaciones originales, contactos, MOQ, plazos y notas de empaque.",
           cta: "Empezar 5 productos",
-          service: "Búsqueda de 5 productos - US$129, hasta 5 productos con 2 proveedores de precio bajo por producto"
+          service: "Búsqueda de 5 productos - US$99, hasta 5 productos con 2 proveedores por producto"
         },
         {
-          price: "03 / DESDE US$199",
+          price: "04 / DESDE US$199",
           title: "Búsqueda de nueva categoría",
           text:
             "Explore una categoría y reciba 10–15 oportunidades seleccionadas de productos nuevos con fotos, rangos de precio, ideas de empaque y notas de origen.",
@@ -288,7 +340,7 @@
           service: "Búsqueda de nueva categoría - desde US$199, 10-15 oportunidades seleccionadas en una categoría"
         },
         {
-          price: "04 / DESDE US$79",
+          price: "05 / DESDE US$79",
           title: "Soporte local remoto",
           text:
             "Solicite una tarea local concreta, como fotos adicionales, seguimiento básico o coordinación de muestras en Yiwu.",
@@ -297,7 +349,7 @@
         }
       ],
       serviceNote:
-        "Los precios indicados cubren alcances iniciales concretos. Las solicitudes más amplias reciben una cotización fija antes de iniciar. La búsqueda de 5 productos por US$129 cubre hasta 5 productos en una categoría, con 2 proveedores de precio bajo por producto. La búsqueda de categoría desde US$199 empieza con 10–15 oportunidades seleccionadas en una categoría. Envío, exportación, almacén, pruebas y otros costos de terceros se cotizan por separado cuando correspondan. No afirmamos realizar inspecciones reguladas.",
+        "Los precios indicados cubren alcances iniciales concretos. La revisión de precio en China por US$29 es para compradores que ya tienen foto, enlace, cotización, proveedor, agente de compra u oferta de trading. Incluye recotización y comparación de precios de referencia, pero no desarrollo completo de proveedores. La búsqueda rápida de producto por US$59 es para compradores que aún no tienen un proveedor claro e incluye 3 opciones de proveedores. Las solicitudes más amplias reciben una cotización fija antes de iniciar. La búsqueda de 5 productos por US$99 cubre hasta 5 productos en una categoría, con 2 proveedores por producto. La búsqueda de categoría desde US$199 empieza con 10–15 oportunidades seleccionadas en una categoría. Envío, exportación, almacén, pruebas y otros costos de terceros se cotizan por separado cuando correspondan. No afirmamos realizar inspecciones reguladas.",
       process: {
         eyebrow: "Cómo funciona",
         title: "Cuatro pasos claros. Usted mantiene el control.",
@@ -334,7 +386,7 @@
           ["¿Añaden margen al precio del producto?", "No. Las cotizaciones originales recopiladas para su tarea se comparten sin cambios. Los costos de terceros se muestran por separado cuando correspondan."],
           ["¿Recibiré los datos de contacto del proveedor?", "Sí. El informe pagado incluye los contactos recopilados para su tarea, para que usted decida cómo continuar."],
           ["¿Pueden revisar empaque, logo o personalización?", "Sí. Cuando sea relevante, podemos incluir notas básicas de empaque, logo, color o personalización recopiladas de proveedores. El seguimiento detallado se cotiza aparte."],
-          ["¿Cuál es la diferencia entre US$59 y US$129?", "US$59 cubre un producto específico con hasta 3 proveedores. US$129 cubre hasta cinco productos específicos en una categoría, con 2 proveedores de precio bajo por producto."],
+          ["¿Cuál es la diferencia entre US$59 y US$99?", "US$59 cubre un producto específico con 3 proveedores. US$99 cubre hasta cinco productos específicos en una categoría, con 2 proveedores por producto."],
           ["¿Cuántos productos incluye la categoría de US$199?", "La búsqueda de categoría desde US$199 empieza con 10–15 oportunidades seleccionadas en una categoría, con fotos, rangos de precio y notas de origen."],
           ["¿Pueden ayudarme a encontrar fábricas?", "Sí. Envíe sus requisitos por WhatsApp y confirmaremos un alcance de tarifa fija para opciones adecuadas de fábrica o suministro directo."],
           ["¿Los precios indicados son fijos?", "Sí, para el alcance inicial indicado. Si su solicitud es más amplia, confirmamos una tarifa fija clara por WhatsApp antes de iniciar."],
@@ -350,7 +402,7 @@
           "Envíe una foto, una breve descripción o su objetivo de sourcing directamente en el chat. Revisaremos la solicitud y confirmaremos un alcance de tarifa fija antes de cualquier trabajo pagado.",
         points: [
           "Búsqueda rápida: US$59",
-          "Búsqueda de 5 productos: US$129 · hasta 5 productos, 2 proveedores cada uno",
+          "Búsqueda de 5 productos: US$99 · hasta 5 productos, 2 proveedores cada uno",
           "Búsqueda de nueva categoría: desde US$199 · 10–15 oportunidades seleccionadas",
           "Soporte local remoto: desde US$79",
           "Notas de empaque/personalización cuando estén disponibles",
@@ -383,33 +435,34 @@
     ar: {
       lang: "ar",
       dir: "rtl",
-      title: "OpenQuote Yiwu | بحث عن منتجات الصين من US$59",
+      title: "OpenQuote Yiwu | بحث عن منتجات الصين من US$29",
       metaDescription:
-        "ابدأ البحث عن منتجات في الصين من داخل أكبر سوق جملة للسلع الصغيرة في العالم. رسوم خدمة ثابتة من US$59. بدون عمولة وبدون زيادة على سعر المنتج.",
-      ogTitle: "OpenQuote Yiwu | بحث عن منتجات الصين من US$59",
+        "ابدأ البحث عن منتجات في الصين من داخل أكبر سوق جملة للسلع الصغيرة في العالم. رسوم خدمة ثابتة من US$29. بدون عمولة وبدون زيادة على سعر المنتج.",
+      ogTitle: "OpenQuote Yiwu | بحث عن منتجات الصين من US$29",
       ogDescription:
         "بحث محلي عن المنتجات والموردين من داخل أكبر سوق جملة للسلع الصغيرة في العالم. بدون عمولة وبدون زيادة على سعر المنتج.",
-      nav: ["لماذا نحن", "الخدمات", "طريقة العمل", "نموذج التقرير", "ابدأ من US$59"],
+      nav: ["لماذا نحن", "الخدمات", "طريقة العمل", "نموذج التقرير", "ابدأ من US$29"],
       hero: {
         eyebrow: "من داخل أكبر سوق جملة للسلع الصغيرة في العالم",
         title: "التوريد من الصين،<br /><span>بدون السفر.</span>",
-        text: "أخبرنا بالمنتج الذي تحتاجه. نبحث محلياً في ييوو، ونجمع عروض الأسعار الأصلية وبيانات التواصل مع الموردين، ثم نرسل النتائج قبل أن تنفق على رحلة إلى الصين أو وكيل طويل المدى.",
+        text: "أرسل صورة واحدة للمنتج. سنفحص خيارات موردين حقيقيين في ييوو قبل أن تسافر أو تقدم طلب شراء.",
         benefits: ["عروض أسعار أصلية", "بيانات التواصل مع الموردين", "MOQ والمدة والصور المحلية"],
-        cta: "ابدأ بحث منتج من US$59",
+        cta: "ابدأ فحص السعر من US$29",
         sample: "عرض نموذج تقرير التوريد <span>↗</span>",
         note: "رسوم ثابتة. بدون عمولة. بدون زيادة على سعر المنتج."
       },
       starter: {
-        heading: ["بحث سريع عن منتج", "خدمة دخول"],
+        heading: ["فحص سعر الصين", "خدمة دخول"],
+        price: "29",
         from: "خدمة أولية برسوم ثابتة",
         items: [
-          "طلب منتج محدد واحد",
-          "حتى 3 خيارات موردين متجاوبين",
-          "عروض أصلية كما هي",
-          "ملاحظات MOQ ومدة التسليم",
-          "بيانات التواصل مع الموردين"
+          "عرض سعر مورد أو صورة منتج",
+          "فحص سريع لمعقولية سعر السوق",
+          "1–2 خيار مورد مرجعي",
+          "نطاق السعر وملاحظات المخاطر",
+          "التواصل الكامل يبدأ من US$59"
         ],
-        foot: ["مدة التسليم المعتادة", "2–3 أيام عمل"]
+        foot: ["مدة التسليم المعتادة", "1–2 يوم عمل"]
       },
       savings: {
         eyebrow: "رسوم ثابتة واضحة. بدون عمولة. بدون زيادة على المنتج.",
@@ -443,6 +496,23 @@
           "تضم ييوو في الصين أكبر سوق جملة للسلع الصغيرة في العالم. نساعدك على استكشافه عن بُعد قبل أن تنفق الوقت والمال على رحلتك الأولى إلى الصين.",
         stats: ["متر مربع من مساحة السوق", "كشك سوق", "تنوع منتج", "رسوم البحث المبدئية"]
       },
+      fieldShots: {
+        eyebrow: "صور هاتفية من أرض السوق",
+        title: "شاهد خيارات المنتجات كأن شخصاً يتجول في السوق نيابة عنك.",
+        text:
+          "أفضل دليل بسيط: صور عمودية بالهاتف من السوق، منتجات مختلفة، ملاحظات واضحة وبيانات موردين نجمعها حسب طلبك.",
+        cards: [
+          ["سوق ييوو", "09:42", "ممرات السوق", "تجول في السوق عن بعد"],
+          ["رف المورد", "10:18", "ألعاب ومركبات أطفال", "سيارات أطفال ورفوف ألعاب"],
+          ["فحص المنتج", "11:05", "ألعاب قطيفة", "ألعاب شخصيات وهدايا"],
+          ["مدخل السوق", "12:20", "سوق الجملة", "سوق ييوو للتجارة الدولية"],
+          ["ملاحظات السعر", "13:27", "ديكور المنزل", "سيراميك، أوعية، رفوف عرض"],
+          ["كشك إكسسوارات", "16:08", "مجوهرات وإكسسوارات", "أقراط، قلائد، منتجات موضة"],
+          ["أفكار منتجات", "16:32", "تخزين المطبخ", "رفوف، حوامل، أفكار منزلية"]
+        ],
+        note:
+          "أثناء المهمة المدفوعة، يمكننا جمع صور هاتفية من الأكشاك أو الرفوف أو عينات التغليف أو عروض الموردين عندما تكون مرتبطة بطلبك."
+      },
       servicesHeading: {
         eyebrow: "ما الذي يمكننا فعله",
         title: "اختر نقطة بداية واضحة برسوم ثابتة.",
@@ -451,23 +521,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "إعادة فحص سعر الصين",
+          text:
+            "للمشترين الذين لديهم بالفعل صورة منتج أو رابط أو عرض سعر أو مورد أو وكيل شراء أو عرض من شركة تجارة. نعيد طلب السعر ونقارن أسعاراً مرجعية.",
+          cta: "أعد فحص السعر",
+          service: "إعادة فحص سعر الصين - US$29، إعادة تسعير ومقارنة أسعار مرجعية بدون تطوير موردين كامل"
+        },
+        {
+          price: "02 / US$59",
           title: "بحث سريع عن منتج",
           text:
-            "نبحث عن منتج محدد واحد. تحصل على حتى 3 موردين متجاوبين، عروض أصلية، بيانات التواصل، MOQ، مدة التسليم وملاحظات التغليف.",
+            "للمشترين الذين لا يملكون مورداً واضحاً بعد. نبحث عن 3 خيارات موردين ونرتب الأسعار، MOQ، ملاحظات التغليف ومدة التسليم.",
           cta: "ابدأ بحث المنتج",
-          service: "بحث سريع عن منتج - US$59"
+          service: "بحث سريع عن منتج - US$59، 3 خيارات موردين مع الأسعار وMOQ وملاحظات التغليف ومدة التسليم"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "بحث 5 منتجات",
           text:
-            "نبحث عن حتى 5 منتجات محددة في فئة واحدة. لكل منتج تحصل على خيارين من الموردين ذوي السعر المنخفض، عروض أصلية، بيانات التواصل، MOQ، مدة التسليم وملاحظات التغليف.",
+            "نبحث عن حتى 5 منتجات محددة في فئة واحدة. لكل منتج تحصل على خيارين موردين، عروض أصلية، بيانات التواصل، MOQ، مدة التسليم وملاحظات التغليف.",
           cta: "ابدأ بحث 5 منتجات",
-          service: "بحث 5 منتجات - US$129، حتى 5 منتجات مع خيارين منخفضي السعر لكل منتج"
+          service: "بحث 5 منتجات - US$99، حتى 5 منتجات مع خيارين موردين لكل منتج"
         },
         {
-          price: "03 / من US$199",
+          price: "04 / من US$199",
           title: "بحث فئة منتجات جديدة",
           text:
             "استكشف فئة منتج واحدة واحصل على 10–15 فرصة مختارة لمنتجات جديدة مع صور، نطاقات أسعار، أفكار تغليف وملاحظات مصدر.",
@@ -475,7 +553,7 @@
           service: "بحث فئة منتجات جديدة - من US$199، 10-15 فرصة مختارة في فئة واحدة"
         },
         {
-          price: "04 / من US$79",
+          price: "05 / من US$79",
           title: "دعم محلي عن بُعد",
           text:
             "اطلب مهمة محلية محددة مثل صور إضافية، متابعة أساسية أو تنسيق عينات في ييوو.",
@@ -484,7 +562,7 @@
         }
       ],
       serviceNote:
-        "الأسعار المعروضة تغطي نطاقات دخول محددة. الطلبات الأوسع تحصل على عرض ثابت قبل بدء العمل. خدمة US$129 تغطي حتى 5 منتجات في فئة واحدة، مع خيارين من الموردين ذوي السعر المنخفض لكل منتج. خدمة فئة المنتجات من US$199 تبدأ بـ 10–15 فرصة مختارة في فئة واحدة. الشحن، التصدير، التخزين، الاختبار وتكاليف الأطراف الثالثة تُعرض بشكل منفصل عند الحاجة. نحن لا ندّعي تقديم تفتيش منظم.",
+        "الأسعار المعروضة تغطي نطاقات دخول محددة. خدمة إعادة فحص سعر الصين US$29 مناسبة للمشترين الذين لديهم صورة أو رابط أو عرض سعر أو مورد أو وكيل شراء أو عرض من شركة تجارة. تشمل إعادة طلب السعر ومقارنة أسعار مرجعية، لكنها لا تشمل تطوير موردين كامل. خدمة البحث السريع عن منتج US$59 مناسبة لمن لا يملكون مورداً واضحاً وتشمل 3 خيارات موردين. الطلبات الأوسع تحصل على عرض ثابت قبل بدء العمل. خدمة US$99 تغطي حتى 5 منتجات في فئة واحدة، مع خيارين موردين لكل منتج. خدمة فئة المنتجات من US$199 تبدأ بـ 10–15 فرصة مختارة في فئة واحدة. الشحن، التصدير، التخزين، الاختبار وتكاليف الأطراف الثالثة تُعرض بشكل منفصل عند الحاجة. نحن لا ندّعي تقديم تفتيش منظم.",
       process: {
         eyebrow: "طريقة العمل",
         title: "أربع خطوات واضحة. القرار يبقى بيدك.",
@@ -521,7 +599,7 @@
           ["هل تضيفون هامشاً إلى أسعار المنتجات؟", "لا. عروض الموردين الأصلية التي نجمعها لمهمتك تُشارك كما هي. تكاليف الأطراف الثالثة تظهر منفصلة عند الحاجة."],
           ["هل سأحصل على بيانات التواصل مع الموردين؟", "نعم. ملف التوريد المدفوع يتضمن بيانات التواصل التي جمعناها لمهمتك حتى تقرر كيف تتابع."],
           ["هل يمكنكم فحص التغليف أو الشعار أو التخصيص؟", "نعم. عند الحاجة يمكننا إضافة ملاحظات أساسية عن التغليف، الشعار، اللون أو التخصيص من الموردين. المتابعة التفصيلية تُسعر منفصلة."],
-          ["ما الفرق بين خدمة US$59 وUS$129؟", "خدمة US$59 تغطي منتجاً محدداً واحداً مع حتى 3 خيارات موردين. خدمة US$129 تغطي حتى خمسة منتجات في فئة واحدة، مع خيارين منخفضي السعر لكل منتج."],
+          ["ما الفرق بين خدمة US$59 وUS$99؟", "خدمة US$59 تغطي منتجاً محدداً واحداً مع 3 خيارات موردين. خدمة US$99 تغطي حتى خمسة منتجات في فئة واحدة، مع خيارين موردين لكل منتج."],
           ["كم منتجاً تشمل خدمة الفئة من US$199؟", "تبدأ خدمة فئة المنتجات من US$199 بـ 10–15 فرصة مختارة في فئة واحدة، مع صور ونطاقات أسعار وملاحظات مصدر."],
           ["هل يمكنكم مساعدتي في إيجاد مصادر مصانع؟", "نعم. أرسل متطلباتك عبر واتساب وسنؤكد نطاقاً برسوم ثابتة لخيارات مصنع أو توريد مباشر مناسبة."],
           ["هل الأسعار المعروضة ثابتة؟", "نعم، للنطاق الأولي الموضح. إذا كان طلبك أوسع، نؤكد رسوماً ثابتة واضحة عبر واتساب قبل بدء العمل المدفوع."],
@@ -537,7 +615,7 @@
           "أرسل صورة منتج أو وصفاً قصيراً أو هدف التوريد مباشرة في المحادثة. سنراجع طلبك ونؤكد نطاقاً واضحاً برسوم ثابتة قبل أي عمل مدفوع.",
         points: [
           "بحث سريع عن منتج: US$59",
-          "بحث 5 منتجات: US$129 · حتى 5 منتجات وخيارا موردين لكل منتج",
+          "بحث 5 منتجات: US$99 · حتى 5 منتجات وخيارا موردين لكل منتج",
           "بحث فئة منتجات جديدة: من US$199 · 10–15 فرصة مختارة",
           "دعم محلي عن بُعد: من US$79",
           "ملاحظات تغليف/تخصيص عند توفرها",
@@ -570,33 +648,34 @@
     fr: {
       lang: "fr",
       dir: "ltr",
-      title: "OpenQuote Yiwu | Recherche de produits en Chine dès US$59",
+      title: "OpenQuote Yiwu | Recherche de produits en Chine dès US$29",
       metaDescription:
-        "Commencez votre sourcing en Chine depuis le plus grand marché de gros de petites marchandises au monde. Frais fixes dès US$59. Aucune commission. Aucune marge ajoutée.",
-      ogTitle: "OpenQuote Yiwu | Recherche de produits en Chine dès US$59",
+        "Commencez votre sourcing en Chine depuis le plus grand marché de gros de petites marchandises au monde. Frais fixes dès US$29. Aucune commission. Aucune marge ajoutée.",
+      ogTitle: "OpenQuote Yiwu | Recherche de produits en Chine dès US$29",
       ogDescription:
         "Recherche locale de produits et fournisseurs depuis le plus grand marché de gros de petites marchandises au monde. Aucune commission. Aucune marge ajoutée.",
-      nav: ["Avantages", "Services", "Processus", "Exemple", "Démarrer à US$59"],
+      nav: ["Avantages", "Services", "Processus", "Exemple", "Démarrer à US$29"],
       hero: {
         eyebrow: "Au cœur du plus grand marché de gros de petites marchandises au monde",
         title: "Sourcing en Chine,<br /><span>sans prendre l’avion.</span>",
-        text: "Dites-nous quel produit vous cherchez. Nous recherchons à Yiwu, collectons les devis originaux et les contacts fournisseurs, puis envoyons les résultats avant que vous ne dépensiez pour un voyage en Chine ou un agent à long terme.",
+        text: "Envoyez une photo du produit. Nous vérifierons de vraies options de fournisseurs à Yiwu avant votre voyage ou votre commande.",
         benefits: ["Devis fournisseurs originaux", "Contacts fournisseurs", "MOQ, délais et photos locales"],
-        cta: "Démarrer une recherche à US$59",
+        cta: "Démarrer une vérification à US$29",
         sample: "Voir un exemple de dossier <span>↗</span>",
         note: "Frais fixes. Aucune commission. Aucune marge ajoutée au produit."
       },
       starter: {
-        heading: ["RECHERCHE PRODUIT RAPIDE", "SERVICE D’ENTRÉE"],
+        heading: ["VÉRIFICATION DE PRIX", "SERVICE D’ENTRÉE"],
+        price: "29",
         from: "SERVICE INITIAL À FRAIS FIXES",
         items: [
-          "Une demande de produit spécifique",
-          "Jusqu’à 3 fournisseurs réactifs",
-          "Devis originaux partagés sans modification",
-          "Notes MOQ et délais",
-          "Coordonnées fournisseur"
+          "Un devis fournisseur ou une photo produit",
+          "Vérification rapide de cohérence du marché",
+          "1–2 options fournisseur de référence",
+          "Fourchette de prix et notes de risque",
+          "Contacts complets dès US$59"
         ],
-        foot: ["Délai habituel", "2–3 jours ouvrés"]
+        foot: ["Délai habituel", "1–2 jours ouvrés"]
       },
       savings: {
         eyebrow: "Frais fixes clairs. Aucune commission. Aucune marge produit.",
@@ -630,6 +709,23 @@
           "Yiwu, en Chine, abrite le plus grand marché de gros de petites marchandises au monde. Nous vous aidons à l’explorer à distance avant d’investir temps et argent dans un premier voyage en Chine.",
         stats: ["mètres carrés de marché", "stands de marché", "variétés de produits", "frais de recherche de départ"]
       },
+      fieldShots: {
+        eyebrow: "Photos verticales depuis le marché",
+        title: "Voyez les options produit comme si quelqu’un parcourait le marché pour vous.",
+        text:
+          "La preuve la plus simple : des photos verticales prises au marché, différents produits, des notes claires et des contacts fournisseurs collectés pour votre demande.",
+        cards: [
+          ["Marché de Yiwu", "09:42", "Allées du marché", "Parcourir le marché à distance"],
+          ["Rayon fournisseur", "10:18", "Jouets et porteurs", "Véhicules enfants et rayons jouets"],
+          ["Vérif produit", "11:05", "Peluches", "Jouets personnages et cadeaux"],
+          ["Entrée marché", "12:20", "Marché de gros", "Yiwu International Trade Market"],
+          ["Notes devis", "13:27", "Déco maison", "Céramique, bols, présentoirs"],
+          ["Stand accessoires", "16:08", "Bijoux et accessoires", "Boucles, colliers, mode"],
+          ["Idées produit", "16:32", "Rangement cuisine", "Étagères, supports, idées maison"]
+        ],
+        note:
+          "Pendant une mission payée, nous pouvons collecter des photos téléphone de stands, rayons, échantillons d’emballage ou présentoirs fournisseurs si elles sont utiles à votre demande."
+      },
       servicesHeading: {
         eyebrow: "Ce que nous pouvons faire",
         title: "Choisissez un point de départ à frais fixes.",
@@ -638,23 +734,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "Revérification de prix Chine",
+          text:
+            "Pour les acheteurs qui ont déjà une photo, un lien, un devis, un fournisseur, un agent de sourcing ou une offre de trading. Nous redemandons des prix et comparons des prix de référence.",
+          cta: "Revérifier mon prix",
+          service: "Revérification de prix Chine - US$29, nouvelle demande de prix et comparaison de référence sans développement fournisseur complet"
+        },
+        {
+          price: "02 / US$59",
           title: "Recherche produit rapide",
           text:
-            "Recherche d’un produit spécifique. Recevez jusqu’à 3 fournisseurs réactifs, devis originaux, contacts, MOQ, délais et notes d’emballage.",
+            "Pour les acheteurs sans fournisseur clair. Nous recherchons 3 options fournisseurs et organisons prix, MOQ, notes d’emballage et délais.",
           cta: "Démarrer une recherche",
-          service: "Recherche produit rapide - US$59"
+          service: "Recherche produit rapide - US$59, 3 options fournisseurs avec prix, MOQ, notes d’emballage et délais"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "Recherche 5 produits",
           text:
-            "Recherche jusqu’à 5 produits spécifiques dans une catégorie. Pour chaque produit, recevez 2 fournisseurs à prix bas, devis originaux, contacts, MOQ, délais et notes d’emballage.",
+            "Recherche jusqu’à 5 produits spécifiques dans une catégorie. Pour chaque produit, recevez 2 options fournisseurs, devis originaux, contacts, MOQ, délais et notes d’emballage.",
           cta: "Démarrer 5 produits",
-          service: "Recherche 5 produits - US$129, jusqu’à 5 produits avec 2 fournisseurs à prix bas par produit"
+          service: "Recherche 5 produits - US$99, jusqu’à 5 produits avec 2 options fournisseurs par produit"
         },
         {
-          price: "03 / DÈS US$199",
+          price: "04 / DÈS US$199",
           title: "Recherche nouvelle catégorie",
           text:
             "Explorez une catégorie et recevez 10–15 opportunités de nouveaux produits sélectionnées avec photos, fourchettes de prix, idées d’emballage et notes source.",
@@ -662,7 +766,7 @@
           service: "Recherche nouvelle catégorie - dès US$199, 10-15 opportunités sélectionnées dans une catégorie"
         },
         {
-          price: "04 / DÈS US$79",
+          price: "05 / DÈS US$79",
           title: "Support local à distance",
           text:
             "Demandez une tâche locale précise : photos supplémentaires, suivi de base ou coordination d’échantillons à Yiwu.",
@@ -671,7 +775,7 @@
         }
       ],
       serviceNote:
-        "Les prix indiqués couvrent des périmètres initiaux précis. Les demandes plus larges reçoivent un devis fixe avant le début. La recherche 5 produits à US$129 couvre jusqu’à 5 produits dans une catégorie, avec 2 fournisseurs à prix bas par produit. La recherche de catégorie dès US$199 commence avec 10–15 opportunités sélectionnées dans une catégorie. Les frais tiers de transport, export, stockage et tests sont devisés séparément si nécessaire. Nous ne prétendons pas réaliser d’inspection réglementée.",
+        "Les prix indiqués couvrent des périmètres initiaux précis. La revérification de prix Chine à US$29 s’adresse aux acheteurs qui ont déjà une photo, un lien, un devis, un fournisseur, un agent de sourcing ou une offre de trading. Elle inclut une nouvelle demande de prix et une comparaison de référence, mais pas un développement fournisseur complet. Le Quick Product Scout à US$59 s’adresse aux acheteurs sans fournisseur clair et inclut 3 options fournisseurs. Les demandes plus larges reçoivent un devis fixe avant le début. La recherche 5 produits à US$99 couvre jusqu’à 5 produits dans une catégorie, avec 2 options fournisseurs par produit. La recherche de catégorie dès US$199 commence avec 10–15 opportunités sélectionnées dans une catégorie. Les frais tiers de transport, export, stockage et tests sont devisés séparément si nécessaire. Nous ne prétendons pas réaliser d’inspection réglementée.",
       process: {
         eyebrow: "Processus",
         title: "Quatre étapes claires. Vous gardez le contrôle.",
@@ -708,7 +812,7 @@
           ["Ajoutez-vous une marge aux prix produits ?", "Non. Les devis fournisseurs originaux collectés pour votre tâche sont partagés sans modification. Les frais tiers sont montrés séparément si nécessaire."],
           ["Vais-je recevoir les contacts fournisseurs ?", "Oui. Le dossier payé inclut les contacts collectés pour votre tâche afin que vous décidiez comment continuer."],
           ["Pouvez-vous vérifier emballage, logo ou personnalisation ?", "Oui. Si pertinent, nous pouvons inclure des notes de base sur emballage, logo, couleur ou personnalisation collectées auprès des fournisseurs. Le suivi détaillé est devisé séparément."],
-          ["Quelle différence entre US$59 et US$129 ?", "US$59 couvre un produit spécifique avec jusqu’à 3 fournisseurs. US$129 couvre jusqu’à cinq produits dans une catégorie, avec 2 fournisseurs à prix bas par produit."],
+          ["Quelle différence entre US$59 et US$99 ?", "US$59 couvre un produit spécifique avec 3 fournisseurs. US$99 couvre jusqu’à cinq produits dans une catégorie, avec 2 options fournisseurs par produit."],
           ["Combien de produits dans la recherche catégorie US$199 ?", "La recherche catégorie dès US$199 commence avec 10–15 opportunités sélectionnées dans une catégorie, avec photos, fourchettes de prix et notes source."],
           ["Pouvez-vous aider à trouver des sources usine ?", "Oui. Envoyez vos exigences sur WhatsApp et nous confirmerons un périmètre à frais fixes pour des options usine ou approvisionnement direct adaptées."],
           ["Les prix indiqués sont-ils fixes ?", "Oui, pour le périmètre initial indiqué. Si votre demande est plus large, nous confirmons des frais fixes clairs sur WhatsApp avant le travail payé."],
@@ -724,7 +828,7 @@
           "Envoyez une photo, une courte description ou votre objectif de sourcing directement dans le chat. Nous examinons votre demande et confirmons un périmètre clair à frais fixes avant tout travail payé.",
         points: [
           "Recherche produit rapide : US$59",
-          "Recherche 5 produits : US$129 · jusqu’à 5 produits, 2 fournisseurs chacun",
+          "Recherche 5 produits : US$99 · jusqu’à 5 produits, 2 fournisseurs chacun",
           "Recherche nouvelle catégorie : dès US$199 · 10–15 opportunités sélectionnées",
           "Support local à distance : dès US$79",
           "Notes emballage/personnalisation si disponibles",
@@ -757,33 +861,34 @@
     pt: {
       lang: "pt-BR",
       dir: "ltr",
-      title: "OpenQuote Yiwu | Pesquisa de produtos na China desde US$59",
+      title: "OpenQuote Yiwu | Pesquisa de produtos na China desde US$29",
       metaDescription:
-        "Comece a buscar produtos na China dentro do maior mercado atacadista de pequenas mercadorias do mundo. Taxas fixas desde US$59. Sem comissão. Sem margem no produto.",
-      ogTitle: "OpenQuote Yiwu | Pesquisa de produtos na China desde US$59",
+        "Comece a buscar produtos na China dentro do maior mercado atacadista de pequenas mercadorias do mundo. Taxas fixas desde US$29. Sem comissão. Sem margem no produto.",
+      ogTitle: "OpenQuote Yiwu | Pesquisa de produtos na China desde US$29",
       ogDescription:
         "Pesquisa local de produtos e fornecedores dentro do maior mercado atacadista de pequenas mercadorias do mundo. Sem comissão. Sem margem no produto.",
-      nav: ["Vantagens", "Serviços", "Como funciona", "Exemplo", "Começar por US$59"],
+      nav: ["Vantagens", "Serviços", "Como funciona", "Exemplo", "Começar por US$29"],
       hero: {
         eyebrow: "Dentro do maior mercado atacadista de pequenas mercadorias do mundo",
         title: "Sourcing na China,<br /><span>sem viajar.</span>",
-        text: "Diga qual produto você precisa. Nós pesquisamos em Yiwu, coletamos cotações originais de fornecedores e contatos, e enviamos os resultados antes de você gastar com viagem para a China ou agente de longo prazo.",
+        text: "Envie uma foto do produto. Vamos verificar opções reais de fornecedores em Yiwu antes de você viajar ou fazer um pedido.",
         benefits: ["Cotações originais", "Contatos dos fornecedores", "MOQ, prazo e fotos locais"],
-        cta: "Começar pesquisa por US$59",
+        cta: "Começar verificação por US$29",
         sample: "Ver exemplo de relatório <span>↗</span>",
         note: "Taxa fixa. Sem comissão. Sem margem no produto."
       },
       starter: {
-        heading: ["PESQUISA RÁPIDA", "SERVIÇO INICIAL"],
+        heading: ["VERIFICAÇÃO DE PREÇO", "SERVIÇO INICIAL"],
+        price: "29",
         from: "SERVIÇO INICIAL COM TAXA FIXA",
         items: [
-          "Uma solicitação de produto específico",
-          "Até 3 fornecedores responsivos",
-          "Cotações originais sem alteração",
-          "Notas de MOQ e prazo",
-          "Dados de contato do fornecedor"
+          "Uma cotação ou foto de produto",
+          "Checagem rápida de razoabilidade de mercado",
+          "1–2 fornecedores de referência",
+          "Faixa de preço e notas de risco",
+          "Contatos completos a partir de US$59"
         ],
-        foot: ["Entrega típica", "2–3 dias úteis"]
+        foot: ["Entrega típica", "1–2 dias úteis"]
       },
       savings: {
         eyebrow: "Taxas fixas claras. Sem comissão. Sem margem no produto.",
@@ -817,6 +922,23 @@
           "Yiwu, na China, abriga o maior mercado atacadista de pequenas mercadorias do mundo. Ajudamos você a explorá-lo remotamente antes de gastar tempo e dinheiro em uma primeira viagem à China.",
         stats: ["metros quadrados de área de mercado", "boxes de mercado", "variedades de produtos", "taxa inicial de pesquisa"]
       },
+      fieldShots: {
+        eyebrow: "Fotos verticais do mercado",
+        title: "Veja opções de produto como se alguém caminhasse pelo mercado para você.",
+        text:
+          "A melhor prova é simples: fotos verticais do mercado, produtos diferentes, notas claras e dados de fornecedores coletados para sua solicitação.",
+        cards: [
+          ["Mercado de Yiwu", "09:42", "Corredores do mercado", "Percorra o mercado à distância"],
+          ["Prateleira fornecedor", "10:18", "Brinquedos e carrinhos", "Veículos infantis e prateleiras"],
+          ["Checagem produto", "11:05", "Pelúcias", "Personagens e itens de presente"],
+          ["Entrada mercado", "12:20", "Mercado atacadista", "Yiwu International Trade Market"],
+          ["Notas de preço", "13:27", "Decoração da casa", "Cerâmica, tigelas e displays"],
+          ["Box acessórios", "16:08", "Joias e acessórios", "Brincos, colares e moda"],
+          ["Ideias produto", "16:32", "Organização cozinha", "Prateleiras, suportes e casa"]
+        ],
+        note:
+          "Durante uma tarefa paga, podemos coletar fotos de telefone de boxes, prateleiras, amostras de embalagem ou displays de fornecedores quando forem relevantes para sua solicitação."
+      },
       servicesHeading: {
         eyebrow: "O que podemos fazer",
         title: "Escolha um ponto de partida com taxa fixa.",
@@ -825,23 +947,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "Reverificação de preço China",
+          text:
+            "Para compradores que já têm foto, link, cotação, fornecedor, agente de sourcing ou oferta de trading. Recotamos e comparamos preços de referência.",
+          cta: "Reverificar meu preço",
+          service: "Reverificação de preço China - US$29, recotação e comparação de preços de referência sem desenvolvimento completo de fornecedores"
+        },
+        {
+          price: "02 / US$59",
           title: "Pesquisa rápida de produto",
           text:
-            "Pesquisamos um produto específico. Receba até 3 fornecedores responsivos, cotações originais, contatos, MOQ, prazo e notas de embalagem.",
+            "Para compradores que ainda não têm fornecedor claro. Pesquisamos 3 opções de fornecedores e organizamos preços, MOQ, notas de embalagem e prazos.",
           cta: "Começar pesquisa",
-          service: "Pesquisa rápida de produto - US$59"
+          service: "Pesquisa rápida de produto - US$59, 3 opções de fornecedores com preços, MOQ, notas de embalagem e prazos"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "Pesquisa de 5 produtos",
           text:
-            "Pesquisamos até 5 produtos específicos em uma categoria. Para cada produto, receba 2 fornecedores de preço baixo, cotações originais, contatos, MOQ, prazo e notas de embalagem.",
+            "Pesquisamos até 5 produtos específicos em uma categoria. Para cada produto, receba 2 opções de fornecedores, cotações originais, contatos, MOQ, prazo e notas de embalagem.",
           cta: "Começar 5 produtos",
-          service: "Pesquisa de 5 produtos - US$129, até 5 produtos com 2 fornecedores de preço baixo por produto"
+          service: "Pesquisa de 5 produtos - US$99, até 5 produtos com 2 opções de fornecedores por produto"
         },
         {
-          price: "03 / A PARTIR DE US$199",
+          price: "04 / A PARTIR DE US$199",
           title: "Pesquisa de nova categoria",
           text:
             "Explore uma categoria e receba 10–15 oportunidades selecionadas de novos produtos com fotos, faixas de preço, ideias de embalagem e notas de origem.",
@@ -849,7 +979,7 @@
           service: "Pesquisa de nova categoria - a partir de US$199, 10-15 oportunidades selecionadas em uma categoria"
         },
         {
-          price: "04 / A PARTIR DE US$79",
+          price: "05 / A PARTIR DE US$79",
           title: "Suporte local remoto",
           text:
             "Solicite uma tarefa local focada, como fotos extras, follow-up básico ou coordenação de amostras em Yiwu.",
@@ -858,7 +988,7 @@
         }
       ],
       serviceNote:
-        "Os preços listados cobrem escopos iniciais focados. Solicitações maiores recebem cotação fixa antes do início. A pesquisa de 5 produtos por US$129 cobre até 5 produtos em uma categoria, com 2 fornecedores de preço baixo por produto. A pesquisa de nova categoria a partir de US$199 começa com 10–15 oportunidades selecionadas em uma categoria. Custos de terceiros, como frete, exportação, armazenagem e testes, são cotados separadamente quando relevante. Não afirmamos realizar inspeção regulamentada.",
+        "Os preços listados cobrem escopos iniciais focados. A reverificação de preço China por US$29 é para compradores que já têm foto, link, cotação, fornecedor, agente de sourcing ou oferta de trading. Inclui recotação e comparação de preços de referência, mas não desenvolvimento completo de fornecedores. A pesquisa rápida de produto por US$59 é para compradores que ainda não têm fornecedor claro e inclui 3 opções de fornecedores. Solicitações maiores recebem cotação fixa antes do início. A pesquisa de 5 produtos por US$99 cobre até 5 produtos em uma categoria, com 2 opções de fornecedores por produto. A pesquisa de nova categoria a partir de US$199 começa com 10–15 oportunidades selecionadas em uma categoria. Custos de terceiros, como frete, exportação, armazenagem e testes, são cotados separadamente quando relevante. Não afirmamos realizar inspeção regulamentada.",
       process: {
         eyebrow: "Como funciona",
         title: "Quatro passos claros. Você mantém o controle.",
@@ -895,7 +1025,7 @@
           ["Vocês adicionam margem aos preços dos produtos?", "Não. As cotações originais coletadas para sua tarefa são compartilhadas sem alteração. Custos de terceiros aparecem separadamente quando relevante."],
           ["Vou receber os contatos dos fornecedores?", "Sim. O pacote pago inclui os contatos coletados para sua tarefa, para você decidir como continuar."],
           ["Vocês verificam embalagem, logo ou personalização?", "Sim. Quando relevante, podemos incluir notas básicas sobre embalagem, logo, cor ou personalização coletadas de fornecedores. Follow-up detalhado é cotado separadamente."],
-          ["Qual a diferença entre US$59 e US$129?", "US$59 cobre um produto específico com até 3 fornecedores. US$129 cobre até cinco produtos em uma categoria, com 2 fornecedores de preço baixo por produto."],
+          ["Qual a diferença entre US$59 e US$99?", "US$59 cobre um produto específico com 3 fornecedores. US$99 cobre até cinco produtos em uma categoria, com 2 opções de fornecedores por produto."],
           ["Quantos produtos entram na categoria de US$199?", "A pesquisa de categoria a partir de US$199 começa com 10–15 oportunidades selecionadas em uma categoria, com fotos, faixas de preço e notas de origem."],
           ["Vocês ajudam a encontrar fontes de fábrica?", "Sim. Envie seus requisitos pelo WhatsApp e confirmaremos um escopo de taxa fixa para opções adequadas de fábrica ou fornecimento direto."],
           ["Os preços listados são fixos?", "Sim, para o escopo inicial indicado. Se sua solicitação for maior, confirmamos uma taxa fixa clara pelo WhatsApp antes de iniciar."],
@@ -911,7 +1041,7 @@
           "Envie uma foto, uma breve descrição ou seu objetivo de sourcing diretamente no chat. Vamos analisar sua solicitação e confirmar um escopo claro de taxa fixa antes de qualquer trabalho pago.",
         points: [
           "Pesquisa rápida: US$59",
-          "Pesquisa de 5 produtos: US$129 · até 5 produtos, 2 fornecedores cada",
+          "Pesquisa de 5 produtos: US$99 · até 5 produtos, 2 fornecedores cada",
           "Pesquisa de nova categoria: a partir de US$199 · 10–15 oportunidades selecionadas",
           "Suporte local remoto: a partir de US$79",
           "Notas de embalagem/personalização quando disponíveis",
@@ -944,33 +1074,34 @@
     ru: {
       lang: "ru",
       dir: "ltr",
-      title: "OpenQuote Yiwu | Поиск товаров в Китае от US$59",
+      title: "OpenQuote Yiwu | Поиск товаров в Китае от US$29",
       metaDescription:
-        "Начните поиск товаров в Китае из крупнейшего в мире оптового рынка мелких товаров. Фиксированная стоимость от US$59. Без комиссии. Без наценки на товар.",
-      ogTitle: "OpenQuote Yiwu | Поиск товаров в Китае от US$59",
+        "Начните поиск товаров в Китае из крупнейшего в мире оптового рынка мелких товаров. Фиксированная стоимость от US$29. Без комиссии. Без наценки на товар.",
+      ogTitle: "OpenQuote Yiwu | Поиск товаров в Китае от US$29",
       ogDescription:
         "Локальный поиск товаров и поставщиков из крупнейшего в мире оптового рынка мелких товаров. Без комиссии. Без наценки на товар.",
-      nav: ["Почему мы", "Услуги", "Как это работает", "Пример", "Начать за US$59"],
+      nav: ["Почему мы", "Услуги", "Как это работает", "Пример", "Начать за US$29"],
       hero: {
         eyebrow: "Внутри крупнейшего в мире оптового рынка мелких товаров",
         title: "Поиск товаров в Китае,<br /><span>без поездки.</span>",
-        text: "Расскажите, какой товар вам нужен. Мы ищем в Иу, собираем оригинальные предложения поставщиков и контакты, затем отправляем результаты до того, как вы потратите деньги на поездку в Китай или долгосрочного агента.",
+        text: "Отправьте одно фото товара. Мы проверим реальные варианты поставщиков в Иу до вашей поездки или размещения заказа.",
         benefits: ["Оригинальные цены поставщиков", "Контакты поставщиков", "MOQ, сроки и местные фото"],
-        cta: "Начать поиск за US$59",
+        cta: "Начать проверку за US$29",
         sample: "Смотреть пример отчета <span>↗</span>",
         note: "Фиксированная оплата. Без комиссии. Без наценки на товар."
       },
       starter: {
-        heading: ["БЫСТРЫЙ ПОИСК ТОВАРА", "СТАРТОВАЯ УСЛУГА"],
+        heading: ["ПРОВЕРКА ЦЕНЫ В КИТАЕ", "СТАРТОВАЯ УСЛУГА"],
+        price: "29",
         from: "СТАРТОВАЯ УСЛУГА С ФИКСИРОВАННОЙ ОПЛАТОЙ",
         items: [
-          "Один конкретный товар",
-          "До 3 поставщиков, которые отвечают",
-          "Оригинальные предложения без изменений",
-          "MOQ и сроки поставки",
-          "Контакты поставщиков"
+          "Одно предложение поставщика или фото товара",
+          "Быстрая проверка адекватности рыночной цены",
+          "1–2 справочных варианта поставщиков",
+          "Ценовой диапазон и заметки о рисках",
+          "Полные контакты начинаются с US$59"
         ],
-        foot: ["Обычный срок", "2–3 рабочих дня"]
+        foot: ["Обычный срок", "1–2 рабочих дня"]
       },
       savings: {
         eyebrow: "Понятная фиксированная цена. Без комиссии. Без наценки.",
@@ -1004,6 +1135,23 @@
           "Иу в Китае — крупнейший в мире оптовый рынок мелких товаров. Мы помогаем изучить его удаленно до того, как вы потратите время и деньги на первую поездку в Китай.",
         stats: ["кв. метров площади рынка", "рыночных павильонов", "разновидностей товаров", "стартовая цена исследования"]
       },
+      fieldShots: {
+        eyebrow: "Вертикальные фото с рынка",
+        title: "Смотрите варианты товаров так, будто кто-то проходит рынок за вас.",
+        text:
+          "Лучшее доказательство простое: вертикальные фото с рынка, разные товары, понятные заметки и контакты поставщиков, собранные под ваш запрос.",
+        cards: [
+          ["Рынок Иу", "09:42", "Рыночные проходы", "Пройти рынок удаленно"],
+          ["Полка поставщика", "10:18", "Игрушки и машинки", "Детские машины и полки игрушек"],
+          ["Проверка товара", "11:05", "Плюшевые игрушки", "Персонажи, игрушки и подарки"],
+          ["Вход на рынок", "12:20", "Оптовый рынок", "Yiwu International Trade Market"],
+          ["Заметки цены", "13:27", "Декор для дома", "Керамика, чаши, витрины"],
+          ["Павильон аксесс.", "16:08", "Украшения и аксессуары", "Серьги, колье, fashion-товары"],
+          ["Идеи товаров", "16:32", "Хранение кухни", "Стойки, держатели, товары для дома"]
+        ],
+        note:
+          "Во время платной задачи мы можем собрать телефонные фото павильонов, полок, образцов упаковки или витрин поставщика, если это важно для вашего запроса."
+      },
       servicesHeading: {
         eyebrow: "Что мы можем сделать",
         title: "Выберите понятный старт с фиксированной ценой.",
@@ -1012,23 +1160,31 @@
       },
       services: [
         {
-          price: "01 / US$59",
+          price: "01 / US$29",
+          title: "Повторная проверка цены в Китае",
+          text:
+            "Для покупателей, у которых уже есть фото, ссылка, цена, поставщик, агент по sourcing или предложение trading-компании. Мы повторно запрашиваем цены и сравниваем справочные цены.",
+          cta: "Перепроверить цену",
+          service: "Повторная проверка цены в Китае - US$29, повторный запрос цены и справочное сравнение без полного поиска поставщиков"
+        },
+        {
+          price: "02 / US$59",
           title: "Быстрый поиск товара",
           text:
-            "Поиск одного конкретного товара. Вы получите до 3 поставщиков, оригинальные цены, контакты, MOQ, сроки и заметки по упаковке.",
+            "Для покупателей без понятного поставщика. Мы ищем 3 варианта поставщиков и собираем цены, MOQ, заметки по упаковке и сроки.",
           cta: "Начать поиск товара",
-          service: "Быстрый поиск товара - US$59"
+          service: "Быстрый поиск товара - US$59, 3 варианта поставщиков с ценами, MOQ, заметками по упаковке и сроками"
         },
         {
-          price: "02 / US$129",
+          price: "03 / US$99",
           title: "Поиск 5 товаров",
           text:
-            "Поиск до 5 конкретных товаров в одной категории. По каждому товару — 2 поставщика с низкой ценой, оригинальные предложения, контакты, MOQ, сроки и заметки по упаковке.",
+            "Поиск до 5 конкретных товаров в одной категории. По каждому товару — 2 варианта поставщиков, оригинальные предложения, контакты, MOQ, сроки и заметки по упаковке.",
           cta: "Начать поиск 5 товаров",
-          service: "Поиск 5 товаров - US$129, до 5 товаров с 2 поставщиками низкой цены по каждому"
+          service: "Поиск 5 товаров - US$99, до 5 товаров с 2 вариантами поставщиков по каждому"
         },
         {
-          price: "03 / ОТ US$199",
+          price: "04 / ОТ US$199",
           title: "Поиск новой категории",
           text:
             "Изучение одной категории и 10–15 отобранных возможностей новых товаров с фото, диапазонами цен, идеями упаковки и заметками по источникам.",
@@ -1036,7 +1192,7 @@
           service: "Поиск новой категории - от US$199, 10-15 отобранных возможностей в одной категории"
         },
         {
-          price: "04 / ОТ US$79",
+          price: "05 / ОТ US$79",
           title: "Удаленная локальная помощь",
           text:
             "Запросите конкретную локальную задачу: дополнительные фото, базовый follow-up или координацию образцов в Иу.",
@@ -1045,7 +1201,7 @@
         }
       ],
       serviceNote:
-        "Указанные цены покрывают конкретный стартовый объем. Более широкие запросы получают фиксированную цену до начала работы. Поиск 5 товаров за US$129 покрывает до 5 товаров в одной категории, с 2 поставщиками низкой цены по каждому товару. Поиск новой категории от US$199 начинается с 10–15 отобранных возможностей в одной категории. Доставка, экспорт, склад, тестирование и другие расходы третьих сторон указываются отдельно при необходимости. Мы не заявляем регулируемую инспекционную работу.",
+        "Указанные цены покрывают конкретный стартовый объем. Повторная проверка цены в Китае за US$29 подходит покупателям, у которых уже есть фото, ссылка, цена, поставщик, агент по sourcing или предложение trading-компании. Она включает повторный запрос цены и справочное сравнение, но не полный поиск поставщиков. Быстрый поиск товара за US$59 подходит покупателям без понятного поставщика и включает 3 варианта поставщиков. Более широкие запросы получают фиксированную цену до начала работы. Поиск 5 товаров за US$99 покрывает до 5 товаров в одной категории, с 2 вариантами поставщиков по каждому товару. Поиск новой категории от US$199 начинается с 10–15 отобранных возможностей в одной категории. Доставка, экспорт, склад, тестирование и другие расходы третьих сторон указываются отдельно при необходимости. Мы не заявляем регулируемую инспекционную работу.",
       process: {
         eyebrow: "Как это работает",
         title: "Четыре понятных шага. Вы сохраняете контроль.",
@@ -1082,7 +1238,7 @@
           ["Вы добавляете наценку к ценам товаров?", "Нет. Оригинальные предложения поставщиков, собранные по вашей задаче, передаются без изменений. Расходы третьих сторон показываются отдельно при необходимости."],
           ["Я получу контакты поставщиков?", "Да. Платный sourcing-пакет включает контакты поставщиков, собранные по вашей задаче, чтобы вы сами решили, как продолжать."],
           ["Можете проверить упаковку, логотип или кастомизацию?", "Да. Если актуально, мы можем включить базовые заметки по упаковке, логотипу, цвету или кастомизации от поставщиков. Более детальный follow-up рассчитывается отдельно."],
-          ["В чем разница между US$59 и US$129?", "US$59 покрывает один конкретный товар с до 3 поставщиков. US$129 покрывает до пяти товаров в одной категории, с 2 поставщиками низкой цены по каждому."],
+          ["В чем разница между US$59 и US$99?", "US$59 покрывает один конкретный товар с 3 поставщиками. US$99 покрывает до пяти товаров в одной категории, с 2 вариантами поставщиков по каждому."],
           ["Сколько товаров в категории за US$199?", "Поиск новой категории от US$199 начинается с 10–15 отобранных возможностей в одной категории, с фото, диапазонами цен и заметками источников."],
           ["Можете помочь найти фабрики?", "Да. Отправьте требования в WhatsApp, и мы согласуем фиксированный объем для подходящих фабрик или прямых источников поставки."],
           ["Указанные цены фиксированные?", "Да, для описанного стартового объема. Если запрос шире, мы согласуем понятную фиксированную цену в WhatsApp до начала платной работы."],
@@ -1098,7 +1254,7 @@
           "Отправьте фото товара, короткое описание или цель sourcing прямо в чат. Мы посмотрим запрос и подтвердим понятный фиксированный объем до любой платной работы.",
         points: [
           "Быстрый поиск товара: US$59",
-          "Поиск 5 товаров: US$129 · до 5 товаров, 2 поставщика по каждому",
+          "Поиск 5 товаров: US$99 · до 5 товаров, 2 поставщика по каждому",
           "Поиск новой категории: от US$199 · 10–15 отобранных возможностей",
           "Удаленная локальная помощь: от US$79",
           "Заметки по упаковке/кастомизации, если доступны",
@@ -1529,6 +1685,36 @@
     });
   }
 
+  function renderServices(services) {
+    const grid = query(".service-grid");
+    if (!grid || !services) return;
+
+    grid.innerHTML = "";
+    services.forEach(function (service, index) {
+      const card = document.createElement("article");
+      card.className = "service-card" + (index === 1 ? " featured-service" : "");
+
+      const number = document.createElement("p");
+      number.className = "card-number";
+      number.textContent = service.price;
+
+      const title = document.createElement("h3");
+      title.textContent = service.title;
+
+      const description = document.createElement("p");
+      description.textContent = service.text;
+
+      const link = document.createElement("a");
+      link.href = "#request";
+      link.setAttribute("data-whatsapp-link", "");
+      link.dataset.whatsappService = service.service;
+      link.textContent = service.cta;
+
+      card.append(number, title, description, link);
+      grid.appendChild(card);
+    });
+  }
+
   function setMeta(selector, content) {
     const element = query(selector);
     if (element) element.setAttribute("content", content);
@@ -1643,14 +1829,19 @@
     text(".hero-text", t.hero.text);
     listText(".hero-benefits span", t.hero.benefits);
     text(".hero-actions .button", t.hero.cta);
+    const heroCta = query(".hero-actions .button");
+    if (heroCta && t.services && t.services[0]) heroCta.dataset.whatsappService = t.services[0].service;
     html(".hero-actions .text-link", t.hero.sample);
     text(".hero-note", t.hero.note);
 
-    listText(".starter-heading span, .starter-heading b", t.starter.heading);
-    text(".starter-from", t.starter.from);
-    listText(".starter-card li", t.starter.items);
-    text(".starter-foot span", t.starter.foot[0]);
-    text(".starter-foot strong", t.starter.foot[1]);
+    if (!query(".starter-duo")) {
+      listText(".starter-heading span, .starter-heading b", t.starter.heading);
+      text(".starter-from", t.starter.from);
+      text(".starter-price strong", t.starter.price || "29");
+      listText(".starter-card li", t.starter.items);
+      text(".starter-foot span", t.starter.foot[0]);
+      text(".starter-foot strong", t.starter.foot[1]);
+    }
 
     text(".savings-heading .eyebrow", t.savings.eyebrow);
     text(".savings-heading h2", t.savings.title);
@@ -1676,19 +1867,26 @@
     text(".market-copy p:not(.eyebrow)", t.market.text);
     listText(".market-stats span", t.market.stats);
 
+    const fieldShots = t.fieldShots || translations.en.fieldShots;
+    if (fieldShots) {
+      text(".field-shot-heading .eyebrow", fieldShots.eyebrow);
+      text(".field-shot-heading h2", fieldShots.title);
+      text(".field-shot-heading > p", fieldShots.text);
+      queryAll(".phone-shot-card").forEach(function (card, index) {
+        const cardText = fieldShots.cards[index];
+        if (!cardText) return;
+        text(".phone-shot-top span", cardText[0], card);
+        text(".phone-shot-top b", cardText[1], card);
+        text("figcaption strong", cardText[2], card);
+        text("figcaption span", cardText[3], card);
+      });
+      text(".field-shot-note", fieldShots.note);
+    }
+
     text("#services .section-heading .eyebrow", t.servicesHeading.eyebrow);
     text("#services .section-heading h2", t.servicesHeading.title);
     text("#services .section-heading > p:last-child", t.servicesHeading.text);
-    queryAll(".service-card").forEach(function (card, index) {
-      const service = t.services[index];
-      if (!service) return;
-      text(".card-number", service.price, card);
-      text("h3", service.title, card);
-      text("p:not(.card-number)", service.text, card);
-      text("a", service.cta, card);
-      const link = query("a", card);
-      if (link) link.dataset.whatsappService = service.service;
-    });
+    renderServices(t.services);
     text(".service-note", t.serviceNote);
 
     text(".process-section .eyebrow", t.process.eyebrow);
@@ -1760,6 +1958,56 @@
   function whatsappMessage(service) {
     const t = translations[currentLocale] || translations.en;
     const selectedService = service || t.whatsapp.fallbackService;
+    const normalizedService = selectedService.toLowerCase();
+    const isPriceRecheck =
+      normalizedService.includes("price re-check") ||
+      normalizedService.includes("price check") ||
+      normalizedService.includes("us$29") ||
+      normalizedService.includes("29");
+    const isQuickScout =
+      normalizedService.includes("quick product scout") ||
+      normalizedService.includes("us$59") ||
+      normalizedService.includes("59");
+    const isFiveProductScout =
+      normalizedService.includes("5-product") ||
+      normalizedService.includes("5 product") ||
+      normalizedService.includes("us$99") ||
+      normalizedService.includes("99");
+
+    if (isPriceRecheck && currentLocale === "en") {
+      return [
+        "Hi, I want to start the $29 China Price Re-Check.",
+        "",
+        "Product photo/link:",
+        "Current quote, if any:",
+        "Quantity:",
+        "Country:",
+        "Packaging or logo requirements:"
+      ].join("\n");
+    }
+
+    if (isQuickScout && currentLocale === "en") {
+      return [
+        "Hi, I want to start the $59 Quick Product Scout.",
+        "",
+        "Product photo/link:",
+        "Target quantity:",
+        "Country:",
+        "Need logo/packaging:"
+      ].join("\n");
+    }
+
+    if (isFiveProductScout && currentLocale === "en") {
+      return [
+        "Hi, I want to start the $99 5-Product Scout.",
+        "",
+        "Product photos/links (up to 5):",
+        "Target quantity for each product:",
+        "Country:",
+        "Packaging or logo requirements:",
+        "Product category or theme:"
+      ].join("\n");
+    }
 
     return [
       t.whatsapp.hello,
