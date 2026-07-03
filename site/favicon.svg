@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <circle cx="32" cy="32" r="32" fill="#18332d"/>
-  <text x="32" y="38" fill="#f0dfb9" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle">OQ</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#1b2f57"/><text x="32" y="45" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800" fill="#ffffff" text-anchor="middle">Q</text><circle cx="45" cy="45" r="5.5" fill="#e6b657"/></svg>

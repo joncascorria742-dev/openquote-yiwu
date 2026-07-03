@@ -1,0 +1,10 @@
+# 根域名:按浏览器语言(Accept-Language)自动跳转到对应语言版本
+# 匹配不到的语言一律默认英文(最后一行)
+/    /zh/    302    Language=zh
+/    /es/    302    Language=es
+/    /pt/    302    Language=pt
+/    /ar/    302    Language=ar
+/    /fr/    302    Language=fr
+/    /ru/    302    Language=ru
+/    /en/    302    Language=en
+/    /en/    302
