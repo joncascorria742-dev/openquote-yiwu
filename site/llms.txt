@@ -25,13 +25,13 @@
 English, Español, العربية, Français, Português, Русский, 中文.
 
 ## Links
-- English: https://openquote-yiwu.com/en/
-- Español: https://openquote-yiwu.com/es/
-- العربية: https://openquote-yiwu.com/ar/
-- Français: https://openquote-yiwu.com/fr/
-- Português: https://openquote-yiwu.com/pt/
-- Русский: https://openquote-yiwu.com/ru/
-- 中文: https://openquote-yiwu.com/zh/
+- English: https://yiwuquote.com/en/
+- Español: https://yiwuquote.com/es/
+- العربية: https://yiwuquote.com/ar/
+- Français: https://yiwuquote.com/fr/
+- Português: https://yiwuquote.com/pt/
+- Русский: https://yiwuquote.com/ru/
+- 中文: https://yiwuquote.com/zh/
 - Contact: via WhatsApp (button on the site).
 
 ## Location

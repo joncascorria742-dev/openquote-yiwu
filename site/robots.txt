@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://openquote-yiwu.com/sitemap.xml
+Sitemap: https://yiwuquote.com/sitemap.xml
